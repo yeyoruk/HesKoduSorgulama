@@ -10,7 +10,7 @@ Raspberry Pi 3 Model B+ ve Pi Kamera ile test edilmiştir.
  Üçüncü kısım ise birinci ve ikinci kısımların birleştirilmesiyle kamera ile algılanan HES karekodunun e-devlet üzerinden otomatik sorgusunu gerçekleştirmektedir.
  
 # Birinci Kısım
-borkod_okuma.py isimli dosya kullanılacak. Kamerada algılanan karekod bilgisi terminale yazdırılır ve aynı zamanda görüntü üzerine yerleştirilir.
+karekod_okuma.py isimli dosya kullanılacak. Kamerada algılanan karekod bilgisi terminale yazdırılır ve aynı zamanda görüntü üzerine yerleştirilir.
 
 # İkinci Kısım
 Hes_sorgu.py isimli dosya kullanılacak. Bu program ile Chromium başlatılır ve öncelikle e-devlet sayfasından giriş yapılır. Terminal ekranından giriş için gerekli bilgiler kullanıcıdan istenir.
