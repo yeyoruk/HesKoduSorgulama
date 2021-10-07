@@ -1,0 +1,26 @@
+
+# OpenCV için gerekli olanlar
+sudo apt-get install libhdf5-dev
+sudo apt-get install libhdf5-serial-dev
+sudo apt-get install libatlas-base-dev
+sudo apt-get install libjasper-dev
+sudo apt-get install libqtgui4
+sudo apt-get install libqt4-test
+
+
+# Python için OpenCV yükle
+pip3 install opencv-contrib-python==4.1.0.25
+
+# Karekod çözümleme için
+pip3 install pyzbar
+
+# Görüntü algılama için kullanılacak
+pip3 install imutils
+
+# Web tarayıcının kontrolü için kullanılacak
+pip3 install selenium
+
+# Selenium ile Chromium kullanabilmek için yükle
+sudo apt-get install chromium-chromedriver
+
+
