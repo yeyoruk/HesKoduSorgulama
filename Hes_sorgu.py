@@ -82,7 +82,7 @@ try:
                
               
               time.sleep(5)
-              sonuc=browser.find_element_by_xpath('//*[@id="contentStart"]/div/dl/dd[4]').text   # Risk durumunu bildiren alanı bul ve sonuc değişkenine ata
+              sonuc=browser.find_element_by_xpath('//*[@id="contentStart"]/div/dl/dd[5]').text   # Risk durumunu bildiren alanı bul ve sonuc değişkenine ata
               print(sonuc)  # Terminal ekranına sonucu yazdır
               
               if sonuc == "Riskli":	  
