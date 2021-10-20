@@ -22,5 +22,7 @@ Hes_sorgu.py isimli dosya kullanılacak. Bu bölüm birinci ve ikinci kısımlar
 
 # Youtube Eğitim Videoları
 Bölüm 1: https://youtu.be/er_XNiuD6w0
+#
 Bölüm 2: https://youtu.be/fj0q__0H2-A
+#
 Bölüm 3: https://youtu.be/eoRyHBntPMA
