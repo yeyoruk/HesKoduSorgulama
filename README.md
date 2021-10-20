@@ -18,3 +18,9 @@ Başarılı bir şekilde e-devlet girişi yapılmışsa HES kodu sorgulama sayfa
 
 # Üçüncü Kısım
 Hes_sorgu.py isimli dosya kullanılacak. Bu bölüm birinci ve ikinci kısımların kombinasyonundan oluşmaktadır. Program başlatıldığında terminal ekranından e-devlete giriş için kullanıcı bilgilerinin girilmesi istenir ve internet erişimi varsa giriş yapılır. Sonrasında döngü ile kameradan karekod okutulması beklenir, eğer karekod algılanmışsa bilgisi yazı formatına dönüştürülür ve yazı karakteri olarak Hes kodu çıkarılır. Web Browser ile e-devletten Hes kodu sorgusu gerçekleştirilerek Risk durumu hem terminale hemde resimde algılanan karekod üzerine yazdırılır.
+
+
+# Youtube Eğitim Videoları
+Bölüm 1: https://youtu.be/er_XNiuD6w0
+Bölüm 2: https://youtu.be/fj0q__0H2-A
+Bölüm 3: https://youtu.be/eoRyHBntPMA
